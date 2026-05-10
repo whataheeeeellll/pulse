@@ -1,2 +1,2 @@
 # pulse
-Pulse Social Media
+Pulse Social Media by me
